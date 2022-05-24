@@ -6,4 +6,4 @@ We firstly defined our grammer in Backus-Naur form, you can see it in the PDF Fi
 Group Members :
 Recep UYSAL and Mehmet Alper ÇETİN.
 
-This project is assigned by Dear Prof. Dr. Halil Altay Güvenir. We would also like to thank to Ms. Irmak Türköz, our teaching assistant, for her help and consultation.
+This project is assigned by Prof. Dr. Halil Altay Güvenir. We would also like to thank to Ms. Irmak Türköz, our teaching assistant, for her help and consultation.
