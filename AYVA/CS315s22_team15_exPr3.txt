@@ -1,0 +1,18 @@
+main ()
+begin
+
+#Function#
+func foo( SETA, ahj )
+begin
+SETA.remove(ahj):
+return SETA
+end
+
+SET4 << new Set:
+SET4.read("file.txt"):
+SET5 << new Set:
+SET5 << foo( SET4, 5 ):
+SET5.print():
+SET4.print():
+
+end

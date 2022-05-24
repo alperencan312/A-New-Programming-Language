@@ -1,0 +1,64 @@
+main()
+begin
+
+#İdentifier Declaration#
+abc << 56 + 8:
+print("ayva++"):
+SET1 << new Set:
+SET2 << new Set:
+myint3 << 3:
+SET1.add(3):
+SET2.add(abc):
+SET1.add("ayva"):
+SET1.add(-96):
+SET1.remove(3):
+SET2.getCardinality():
+SET3 << new Set:
+SET3 << SET1.union(SET2):
+SET4 << SET2.intersection(SET1):
+SET5 << new Set:
+SET5.read():
+SET4.read("file.txt"):
+SET5.print():
+SET6 << new Set:
+
+SET1.delete():
+recep << 64654:
+mehmet << 64864:
+alperen << 845412:
+
+#conditions#
+if( recep < mehmet && alperen == mehmet )
+begin
+  print("ayva++ is the best."):
+end
+else
+begin
+  recep << 6:
+end
+
+#loops#
+
+while( alperen > 1 )
+begin
+alperen << 0:
+recep << 3:
+mehmet << 8:
+end
+
+for(number << 5: number <= 8: 2)
+begin
+value << 8 + 12:
+SET5.add(value):
+end
+
+do
+begin
+SET1.add(8):
+mehmet << mehmet - 15:
+end
+while (mehmet > 1):
+
+int << 84 #syntax error: no end stametent (:)#
+
+end

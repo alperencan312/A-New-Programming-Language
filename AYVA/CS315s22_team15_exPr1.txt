@@ -1,0 +1,16 @@
+main ()
+begin
+
+SET1 << new Set:
+SET1.read("file.txt"): #Considering the file name to be readen is named "file.txt"#
+
+if(SET1.isEmpty())
+begin
+print("The set is empty"):
+end
+else
+begin
+SET1.print():
+end
+
+end

@@ -1,0 +1,16 @@
+main ()
+begin
+
+number << 77:
+identifier << 55:
+SET1 << new Set { 1,2,3.4, "abc", identifier }:
+SET2 << new Set {544, 3, "sdgksdj", number}:
+SET3 << new Set:
+SET3 << SET1.union(SET2):
+SET3.print():
+SET3.print("file.txt"):
+SET1.delete():
+SET2.delete():
+SET3.delete():
+
+end
